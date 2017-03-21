@@ -1,0 +1,4 @@
+DEBUG: True
+SLACK_TOKEN: <Put your key here> 
+ACTIVE_PLUGINS:
+  - plugins.govorun.GovorunPlugin
