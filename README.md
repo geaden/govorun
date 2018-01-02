@@ -4,4 +4,6 @@
 
 A Slack Bot. See [`rtmbot`](https://github.com/slackhq/python-rtmbot).
 
+---
+
 Authors, 2017
